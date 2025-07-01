@@ -59,13 +59,13 @@ python file_name.py
 ```
 
 
-##🛠️ Requirements
+## 🛠️ Requirements
 
 ```bash
 -Python 3.x
 -No external libraries required (standard library only)
 ```
 
-##🙌 Acknowledgments
+## 🙌 Acknowledgments
 
 This internship project allowed me to practice and improve my Python skills by working on real-world mini applications. Thanks to the mentors and team for their guidance and support.
